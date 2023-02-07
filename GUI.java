@@ -1,13 +1,8 @@
-/**********************Q2-Devoir2 ITI1521....*/
-package d2q2;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-/*
- * @author Mohamed Ismail Asaklil 0300243534
- */
 class GUI extends JFrame implements ActionListener {
   Calculator cal;
   JTextField input;
